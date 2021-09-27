@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## UMKM DI BANYUWANGI SEMASA PANDEMI
 
-You can use the [editor on GitHub](https://github.com/armandoervan/kasusku.co.id/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+BANYUWANGI
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Pandemi masih menjadi perhatian bersama. Pasalnya, masa ini masih banyak warga yang merasakan dampaknya. Tak terkecuali bagi para pemilik Usaha Mikro, Kecil dan Menengah (UMKM) di Banyuwangi.
 
-### Markdown
+Kondisi ini yang menjadi fokus bakal calon Bupati Banyuwangi Ipuk Fiestiandani Azwar Anas. Melalui media sosial pribadinya, ia getol mempromosikan secara gratis produk-produk dari masyarakat.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Tak kurang puluhan produk UMKM berhasil diendorse oleh istri Bupati Banyuwangi Abdullah Azwar Anas ini. Macam-macam produk, seperti olahan pangan, produk kerajinan, minuman tradisional hingga kekinian, produk fashion, kue kering, hingga berbagai kafe dan warung dipromosikan di akun Ipuk yang memiliki 15 ribu followers itu.
 
-```markdown
-Syntax highlighted code block
+“Itu salah satu cara saja agar produk-produk UMKM Banyuwangi bisa lebih banyak dikenal orang. Ujung-ujungnya tentu agar laris dan meningkatkan kesejahteraan UMKM,” kata Ipuk.
 
-# Header 1
-## Header 2
-### Header 3
+Dia juga menyebut, banyak banyak pelaku UMKM yang memention produknya di akun @ipukfdani tiap hari. “Di sela-sela kesibukan, saya selalu promosikan produk-produk UMKM yang masuk di akun IG saya,” kata Ketua Dewan Kerajinan Nasional Daerah (Dekranasda) Banyuwangi itu.
 
-- Bulleted
-- List
+Ipuk mengatakan, setelah mempromosikan, banyak orang yang menanyakan detail produk-produk itu, mulai harga, lokasi, pemilik, kualitas, hingga lainnya.
 
-1. Numbered
-2. List
+“Dan alhamdulillah, banyak UMKM yang merasa terbantu. Setelah ikut saya tampilkan di Instagram, sering ada pembeli. Saya ikut senang. Kalau semua saling bantu begini, kita beli produk-produk UMKM, InsyaAllah ekonomi bisa cepat pulih,” ujar Ipuk.
 
-**Bold** and _Italic_ and `Code` text
+Kegemaran Ipuk dalam membantu mempromosikan produk UMKM Banyuwangi telah dilakukan sebelum ada pandemi Covid-19. “Banyak juga pelaku UMKM yang konsultasi mengenai kemasan, pemasaran, dan lainnya,” jelas Ipuk.
 
-[Link](url) and ![Image](src)
-```
+Calon bupati yang didukung 12 partai tersebut mengatakan, salah satu program kerjanya adalah pengembangan UMKM, pertanian, perikanan, dan pariwisata yang akan dijadikan jangkar pembukaan lapangan kerja. “Kami fokus ciptakan pertumbuhan inklusif, yang merata, yang membuka lapangan kerja, yang padat karya, yang memberi kesempatan berusaha seluas-luasnya untuk warga. Salah satunya lewat UMKM,” paparnya.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Selama ini Dekranasda bersama Pemkab Banyuwangi memberikan servis kepada UMKM untuk menunjang dan mengakselerasi bisnisnya melalui Rumah Kreatif di bawah binaan Dinas Koperasi, Usaha Mikro, dan Perdagangan. UMKM mendapat fasilitas dan pendampingan untuk meningkatkan kualitas desain kemasan, foto produk, dan pemasaran digital secara gratis. Pelatihan kewirausahaan juga digeber hingga ke desa-desa. 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/armandoervan/kasusku.co.id/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### KESIMPULAN
 
-### Support or Contact
+kita harus bisa memanfaatkan teknologi untuk membuat orang lain tahu bahwa kualitas dan kuantitas dari masing-masing daerah sangat bermutu terutama karya anak-anak banyuwangi
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### Kunjungi juga
+
+https://www.oracle.com/ untuk belajar java web
+
